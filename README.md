@@ -5,11 +5,11 @@
 ### About me:
 - 📍 Currently live in: CABA, Argentina.
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/webfullstack)**
-- 👨🏻‍💻 I am currently working on **an animal shelter website**
-- 👯 I’m looking to collaborate on Web3 Projects
-- 💬 Ask me about web development
+- 👨🏻‍💻 Currently working on **an animal shelter website**, which will later be donated
+- 📚 Looking to collaborate on projects
+- 🤓 Fanatic of good practices & agile.
 
-## 📫 Get In Touch
+## 📫 Contact
 <a href="https://www.linkedin.com/in/joaqu%C3%ADn-rojas-moschini-47b42720b/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:joaco.vla@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a>
