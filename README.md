@@ -29,6 +29,7 @@
 <a href="https://www.mongodb.com/es" target="_blank" title="MongoDB"><img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" height="48px" width="48px"/></a>
 <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" height="48px" width="48px"/></a>
 <a href="https://sequelize.org/" target="_blank" title="Sequelize"><img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&q=0&b=1&p=0&a=0"/></a>
+<a href="https://nextjs.org/" target="_blank" title="NextJs"><img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" height="48px" width="48px"/></a>
 
 <!--
 **joacorojasmoschini/joacorojasmoschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
