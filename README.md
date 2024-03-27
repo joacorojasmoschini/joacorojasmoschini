@@ -4,7 +4,6 @@
 
 ### About me:
 - 📍 Currently live in: CABA, Argentina.
-- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/webfullstack)**
 - 👨🏻‍💻 Currently working on freelance projects 
 - 🤓 Fanatic of good practices & agile.
 
