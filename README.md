@@ -3,7 +3,7 @@
 
 
 ### About me:
-- 📍 Currently live in: CABA, Argentina.
+- 📍 Currently live in: Barcelona, España.
 - 👨🏻‍💻 Currently working on freelance projects 
 - 🤓 Fanatic of good practices & agile.
 
