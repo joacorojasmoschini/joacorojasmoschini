@@ -20,7 +20,7 @@
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/nestjs_icon_130828.png" height="48px" width="48px"/></a>
+<a href="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg" target="_blank" title="NestJS"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/nestjs_icon_130828.png" height="48px" width="48px"/></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" height="48px" width="48px"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img width='48px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 <a href="https://avatars.githubusercontent.com/u/126759922?v=4" target="_blank" title="Cursor"><img src="https://avatars.githubusercontent.com/u/127199158?s=280&v=4" height="48px" width="48px"/></a>
